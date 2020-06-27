@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import ItemList from './components/ItemList'
+import FeatureList from './components/FeatureList'
 
 function App() {
   return (
     <div className="App">
-      <ItemList />
+      <FeatureList />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

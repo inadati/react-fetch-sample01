@@ -1,14 +1,12 @@
 {
-    "items": [
+    "feature": [
         {
             "id": 1,
-            "name": "Apples",
-            "price": "$2"
+            "text": "単語A"
         },
         {
             "id": 2,
-            "name": "Peaches",
-            "price": "$5"
+            "text": "単語B"
         }
     ]
 }
